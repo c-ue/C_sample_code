@@ -12,8 +12,4 @@ GCC 資訊
 <br>Target: mingw32
 <br>Configured with: ../src/gcc-4.9.3/configure --build=x86_64-pc-linux-gnu --host=mingw32 --prefix=/mingw --disable-win32-registry --target=mingw32 --with-arch=i586 --enable-languages=c,c++,objc,obj-c++,fortran,ada --enable-static --enable-shared --enable-threads --with-dwarf2 --disable-sjlj-exceptions --enable-version-specific-runtime-libs --enable-libstdcxx-debug --with-tune=generic --enable-nls
 <br>Thread model: win32
-<<<<<<< HEAD
 <br>gcc version 4.9.3 (GCC)
-=======
-<br>gcc version 4.9.3 (GCC)
->>>>>>> e8d5ed12e98d8e134b022105747977e917d9a4a3
