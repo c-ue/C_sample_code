@@ -1,5 +1,6 @@
 DLL 編譯:
 >gcc print.c -shared -o print.dll
+
 EXE 編譯:
 >gcc test_demo.c -lkernel32 -o test_demo.exe
 
