@@ -6,7 +6,7 @@ EXE 編譯:
 
 GCC 資訊
 >gcc -v
-Using built-in specs.
+<br>Using built-in specs.
 COLLECT_GCC=gcc
 COLLECT_LTO_WRAPPER=c:/mingw/bin/../libexec/gcc/mingw32/4.9.3/lto-wrapper.exe
 Target: mingw32
