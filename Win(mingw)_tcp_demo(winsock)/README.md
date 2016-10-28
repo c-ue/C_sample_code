@@ -2,7 +2,7 @@ server 編譯:
 >gcc server.c -lws2_32 -o server.exe
 
 client 編譯:
->
+>gcc client.c -lws2_32 -o client.exe
 
 GCC 資訊
 >gcc -v
